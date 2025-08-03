@@ -4,15 +4,6 @@ D:/Code/space_shooter/build/CMakeFiles/3.31.6-msvc6/CMakeCCompiler.cmake
 D:/Code/space_shooter/build/CMakeFiles/3.31.6-msvc6/CMakeCXXCompiler.cmake
 D:/Code/space_shooter/build/CMakeFiles/3.31.6-msvc6/CMakeRCCompiler.cmake
 D:/Code/space_shooter/build/CMakeFiles/3.31.6-msvc6/CMakeSystem.cmake
-D:/Code/space_shooter/library/SDL/cmake/SDL3Config.cmake
-D:/Code/space_shooter/library/SDL/cmake/SDL3ConfigVersion.cmake
-D:/Code/space_shooter/library/SDL/cmake/SDL3_imageConfig.cmake
-D:/Code/space_shooter/library/SDL/cmake/SDL3_imageConfigVersion.cmake
-D:/Code/space_shooter/library/SDL/cmake/SDL3_ttfConfig.cmake
-D:/Code/space_shooter/library/SDL/cmake/SDL3_ttfConfigVersion.cmake
-D:/Code/space_shooter/library/SDL/cmake/sdl2_mixer-config-version.cmake
-D:/Code/space_shooter/library/SDL/cmake/sdl2_mixer-config.cmake
-D:/Code/space_shooter/library/SDL/cmake/sdlcpu.cmake
 D:/Program Files/VS/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeCInformation.cmake
 D:/Program Files/VS/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeCXXInformation.cmake
 D:/Program Files/VS/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeCommonLanguageInclude.cmake
@@ -39,3 +30,5 @@ D:/Program Files/VS/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cma
 D:/Program Files/VS/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Platform/Windows-MSVC.cmake
 D:/Program Files/VS/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Platform/Windows.cmake
 D:/Program Files/VS/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Platform/WindowsPaths.cmake
+D:/library/SDL2/cmake/sdl2-config-version.cmake
+D:/library/SDL2/cmake/sdl2-config.cmake
