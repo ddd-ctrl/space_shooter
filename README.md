@@ -1,0 +1,1 @@
+一个C++太空飞机射击游戏项目,参考bilibili上的up主ZiyuGameDev的视频和项目,旨在学习
